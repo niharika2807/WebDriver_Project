@@ -12,7 +12,7 @@ public class LoginPage {
 
 	WebDriver driver = BaseClass.driver;
 
-	// ====================== Locators =========================
+	// ====================== Lsinssssocators =========================
 
 	@FindBy(xpath = "//input[@id='user-name']")
 	WebElement UserName;

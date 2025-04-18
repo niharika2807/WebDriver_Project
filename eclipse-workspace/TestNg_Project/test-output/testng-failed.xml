@@ -6,7 +6,6 @@
       <class name="swaglab_test.LoginTest">
         <methods>
           <include name="SetUp"/>
-          <include name="LoginFailureTestFromProperties"/>
           <include name="LoginFailureTestFromExcel"/>
           <include name="SetUpExcel"/>
           <include name="CloseExcel"/>
